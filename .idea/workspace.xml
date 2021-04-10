@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acfeeeab-2220-4b09-b436-ad28e61b4ab1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qmyo6tss1AP94wYGXoBqaSFaY1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.181870078 黄廷基">
+    <configuration name="181870078 黄廷基" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datamining" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_1/181870078 黄廷基.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2复杂请求" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datamining" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2复杂请求.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="News_getch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datamining" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/News_getch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datamining" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="douban_TOP250 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datamining" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban_TOP250.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.181870078 黄廷基" />
+        <item itemvalue="Python.News_getch" />
+        <item itemvalue="Python.News_getch" />
+        <item itemvalue="Python.News_getch" />
+        <item itemvalue="Python.baidu (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acfeeeab-2220-4b09-b436-ad28e61b4ab1" name="Default Changelist" comment="" />
+      <created>1617699231081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617699231081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617699475806">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="510" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1617699475806" />
+    <state x="561" y="345" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1617701081834">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="561" y="345" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1536.864@0.0.1536.864" timestamp="1617701081834" />
+    <state x="504" y="174" width="701" height="494" key="#xdebugger.XInspectDialog" timestamp="1617845713097">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="504" y="174" width="701" height="494" key="#xdebugger.XInspectDialog/0.0.1536.864@0.0.1536.864" timestamp="1617845713097" />
+    <state width="1372" height="260" key="GridCell.Tab.0.bottom" timestamp="1618038966167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1372" height="260" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618038966167" />
+    <state width="1372" height="260" key="GridCell.Tab.0.center" timestamp="1618038966167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1372" height="260" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618038966167" />
+    <state width="1372" height="260" key="GridCell.Tab.0.left" timestamp="1618038966167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1372" height="260" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618038966167" />
+    <state width="1372" height="260" key="GridCell.Tab.0.right" timestamp="1618038966167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1372" height="260" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618038966167" />
+    <state width="1372" height="300" key="GridCell.Tab.1.bottom" timestamp="1618027829236">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1372" height="300" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618027829236" />
+    <state width="1372" height="300" key="GridCell.Tab.1.center" timestamp="1618027829236">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1372" height="300" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1618027829236" />
+    <state width="1372" height="300" key="GridCell.Tab.1.left" timestamp="1618027829236">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1372" height="300" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1618027829236" />
+    <state width="1372" height="300" key="GridCell.Tab.1.right" timestamp="1618027829236">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1372" height="300" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1618027829236" />
+    <state x="164" y="106" key="SettingsEditor" timestamp="1617707414438">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="164" y="106" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1617707414438" />
+    <state width="627" height="413" key="XDebugger.FullValuePopup" timestamp="1617883151040">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="627" height="413" key="XDebugger.FullValuePopup/0.0.1536.864@0.0.1536.864" timestamp="1617883151040" />
+    <state x="409" y="197" width="672" height="678" key="search.everywhere.popup" timestamp="1617869564437">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="409" y="197" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1617869564437" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="author" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
